@@ -1,3 +1,11 @@
+---
+name: User Story
+about: Create a user story for the capstone project
+title: "[User Story] "
+labels: ""
+assignees: ""
+---
+
 # User Story Template
 
 **Title:**
